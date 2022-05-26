@@ -16,6 +16,7 @@ I’m Ronan, a undergrad Data Analytics major at Chapman University. I am studyi
 <br>
 
 ## &#x1f4c8; GitHub Stats
+![Ronans's GitHub stats](https://github-readme-stats.vercel.app/api?username=kearns-cu&show_icons=true&theme=radical)
 
 <br>
 
