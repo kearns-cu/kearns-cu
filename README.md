@@ -1,5 +1,7 @@
 [![Ronans's Banner](./assets/banner.png)]
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kearns-cu)](https://github.com/anuraghazra/github-readme-stats)
+
 <!-- GitHub Stats -- >
 
 <a href="https://github.com/kearns-cu">
