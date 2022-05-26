@@ -16,15 +16,16 @@ I’m Ronan, a undergrad Data Analytics major at Chapman University. I am studyi
 <br>
 
 ## &#x1f4c8; GitHub Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 <br>
 
 <a href="https://github.com/kearns-cu">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kearns-cu&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&theme=synthwave" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kearns-cu&hide=html&theme=moltack,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <a href="https://github.com/kearns-cu">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=kearns-cu&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34&theme=synthwave" alt="Ronans's GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=kearns-cu&show_icons=true&line_height=27&count_private=true&theme=moltack" alt="Ronans's GitHub Stats" />
 </a>
 
 <br>
