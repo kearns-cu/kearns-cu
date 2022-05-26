@@ -5,7 +5,7 @@
 
 Hey there 👋
 
-I’m Ronan, a undergrad Data Analytics major at Chapman University. I am studying topics involving data structures, science, and analytics and plan to graduate Spring of 2024. I also currently study Chinese as a minor where I am studying topics in Business.
+I’m Ronan, a undergrad Data Analytics major at Chapman University. I am studying topics involving data structures, science, and analytics. I also study Chinese business, language, and culture as a minor and plan to graduate Spring of 2024.
 
 ## 💼 Skills
 -	**Programming Languages**: Java, C++, Python, R
