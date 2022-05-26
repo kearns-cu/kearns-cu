@@ -8,9 +8,9 @@ Hey there 👋
 I’m Ronan, a undergrad Data Analytics major at Chapman University. I am studying topics involving data structures, science, and analytics and plan to graduate Spring of 2024. I also currently study Chinese as a minor where I am studying topics in Business.
 
 ## 💼 Skills
--	Programming Languages: Java, C++, Python, R
--	Cloud Architectures: AWS, VMware, Docker, Azure
--	Frameworks / Libraries: scikit-learn, plotnine, pandas, NumPy, Keras, TensorFlow, jupyterlabs
+-	**Programming Languages**: Java, C++, Python, R
+-	**Cloud Architectures**: AWS, VMware, Docker, Azure
+-	**Frameworks / Libraries**: scikit-learn, plotnine, pandas, NumPy, Keras, TensorFlow, jupyterlabs
 -	Proficient in Chinese (read, write, and speak)
 
 <br>
