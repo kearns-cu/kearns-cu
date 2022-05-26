@@ -1,9 +1,6 @@
 [![Ronans's Banner](./assets/banner.png)]
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kearns-cu)](https://github.com/anuraghazra/github-readme-stats)
-
 ## &#x1f4c8; GitHub Stats
-
 
 <br>
 
