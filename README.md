@@ -1,11 +1,11 @@
 [![Ronans's Banner](./assets/banner.png)]
 
+[![Visits Badge](https://badges.pufler.dev/visits/braydoncoyer/kearns-cu)]
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/ronank)
+
 Hey there 👋
 
 I’m Ronan, a undergrad Data Analytics major at Chapman University. I am studying topics involving data structures, science, and analytics and plan to graduate Spring of 2024. I also currently study Chinese as a minor where I am studying topics in Business.
-
-<br>
-<br>
 
 ## 💼 Skills
 -	Programming Languages: Java, C++, Python, R
