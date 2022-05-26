@@ -4,10 +4,10 @@
 <br>
 
 ## 💼 Skills
-•	Programming Languages: Java, C++, Python, R
-•	Cloud Architectures: AWS, VMware, Docker, Azure
-•	Frameworks / Libraries: scikit-learn, plotnine, pandas, NumPy, Keras, TensorFlow, jupyterlabs
-•	Proficient in Chinese (read, write, and speak)
+-	Programming Languages: Java, C++, Python, R
+-	Cloud Architectures: AWS, VMware, Docker, Azure
+-	Frameworks / Libraries: scikit-learn, plotnine, pandas, NumPy, Keras, TensorFlow, jupyterlabs
+-	Proficient in Chinese (read, write, and speak)
 
 <br>
 
